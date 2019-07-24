@@ -1,5 +1,6 @@
-# network
-Network and Graphs.
+# Network and Graphs
+
+Network and Graphs analysis implementing NetworkX in Python.
 
 ###### Chapter-1 : [What is Network?](https://nbviewer.jupyter.org/github/teachmex/network/blob/master/Chapter01/Chapter_01.ipynb)
 ###### Chapter-2 : [Working in NetworX](https://nbviewer.jupyter.org/github/teachmex/network/blob/master/Chapter02/Chapter_02.ipynb)
